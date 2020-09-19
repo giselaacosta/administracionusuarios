@@ -1,0 +1,8 @@
+{
+  "name": "administracionusuarios",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
