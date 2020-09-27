@@ -18,7 +18,7 @@ export class AppComponent {
     private statusBar: StatusBar
 
   ) {
-    this.initializeApp();
+   // this.initializeApp();
   }
   initializeApp() {
     this.platform.ready().then(() => {

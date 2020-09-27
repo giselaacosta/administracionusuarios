@@ -8,18 +8,19 @@
     "SplashScreen": {
       "launchShowDuration": 0,
       "launchAutoHide": false
-
     }
   },
   "cordova": {
     "preferences": {
-      "ScrollEnabled": "false",
-      "BackupWebStorage": "none",
-      "SplashMaintainAspectRatio": "true",
-      "FadeSplashScreenDuration": "300",
-      "SplashShowOnlyFirstTime": "false",
       "SplashScreen": "screen",
-      "SplashScreenDelay": "3000"
+      "SplashMaintainAspectRatio": "true",
+      "SplashScreenDelay": "0",
+      "FadeSplashScreenDuration": "0",
+      "ShowSplashScreen": "false",
+      "AutoHideSplashScreen": "false",
+      "FadeSplashScreen": "false",
+      "ShowSplashScreenSpinner": "false",
+      "SplashShowOnlyFirstTime": "false"
     }
   }
 }
